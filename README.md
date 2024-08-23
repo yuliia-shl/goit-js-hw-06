@@ -1,3 +1,3 @@
-# goit-js-hw-05
+# goit-js-hw-06
 
-GoIt, JavaScript, Homework №5.
+GoIt, JavaScript, Homework №6.
